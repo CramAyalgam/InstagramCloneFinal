@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InstagramCloneFinal</string>
+    <string name="LoginAct_name">Login</string>
+    <string name="SignUp_name">Sign Up</string>
+
+</resources>
